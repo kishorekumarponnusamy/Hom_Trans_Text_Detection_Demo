@@ -34,15 +34,19 @@ languages using pretrained multilingual BERT (mBERT). Built as part of the
 ---
 
 ## 📁 Project Structure
+
+```
+Hom_Trans_Text_Detection/
 ├── Code/
-│   ├── model.py          # mBERT model training
-│   ├── predict.py        # Inference script
-│   └── preprocess.py     # Data preprocessing
+│   ├── model.py           # mBERT model training
+│   ├── predict.py         # Inference script
+│   └── preprocess.py      # Data preprocessing
 ├── Dataset/
-│   └── data.csv          # Tamil & Malayalam dataset
+│   └── data.csv           # Tamil & Malayalam dataset
 ├── Streamlit_app/
-│   └── app.py            # Interactive web application
+│   └── app.py             # Interactive web application
 └── README.md
+```
 
 ---
 
