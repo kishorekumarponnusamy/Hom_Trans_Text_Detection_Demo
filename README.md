@@ -67,19 +67,11 @@ streamlit run app.py
 
 ---
 
-## 📊 Results
+## 🚀 Live Demo
 
-| Language | Model | Macro F1 |
-|----------|-------|----------|
-| Tamil | mBERT | - |
-| Malayalam | mBERT | - |
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://homtranstextdetection-45jdwujrjqwbqrd3puw56v.streamlit.app/)
 
----
-
-## 📝 Related Publication
-
-> Kumaresan et al. **VEL@ LT-EDI-2023: Detecting Homophobia and Transphobia in 
-> Code-Mixed Spanish Social Media Comments.** LTEDI 2023.
+> Try the app live — enter Tamil or Malayalam text and get instant classification results!
 
 ---
 
