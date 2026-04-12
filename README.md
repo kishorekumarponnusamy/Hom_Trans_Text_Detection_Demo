@@ -80,9 +80,11 @@ streamlit run app.py
 > 💡 Tip: Right-click the badge and select **"Open in new tab"** for best experience!
 
 ---
-
+<!--
 ## 🙋 Author
 
 **Kishore Kumar Ponnusamy**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-kumar-ponnusamy-309037212/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rUpbYvIAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=rUpbYvIAAAAJ&hl=en)  
+-->
+
