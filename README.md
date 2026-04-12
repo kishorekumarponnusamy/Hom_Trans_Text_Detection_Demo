@@ -69,9 +69,11 @@ streamlit run app.py
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://homtranstextdetection-45jdwujrjqwbqrd3puw56v.streamlit.app/)
+<a href="https://homtranstextdetection-45jdwujrjqwbqrd3puw56v.streamlit.app/" target="_blank">
+<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/>
+</a>
 
-> Try the app live — enter Tamil or Malayalam text and get instant classification results!
+> 💡 Tip: Right-click the badge and select **"Open in new tab"** for best experience!
 
 ---
 
