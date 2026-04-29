@@ -1,5 +1,7 @@
 # Homophobia and Transphobia Text Detection 🏳️‍🌈
-
+<p align="center">
+  <img src="./image/workflow.png" alt="Workflow" width="800">
+</p>
 A deep learning model to detect homophobia and transphobia in Tamil and Malayalam 
 social media comments, with an interactive Streamlit web application.
 
